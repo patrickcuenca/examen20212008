@@ -6,13 +6,15 @@ Aquesta activitat servià per poder valorar si l'alumne ha assolit els coneixeme
 
 Es tracta de fer un clone d'aquest repositori i anar seguint totes les seccions, i a mesura que l'alumne vagi fent el que es demana a cada secció, l'alumne anirà sumant punts.
 
-## Preparació de l'entorn per fer l'activitat
+
 
 ### Comandes per validar la configuració de ***```git```***
 ```git
 $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
 ```
+
+## Preparació de l'entorn per fer l'activitat
 
 Crear una carpeta localment al vostre ordinador amb el nom 20210208.
 
