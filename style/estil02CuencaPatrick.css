@@ -6,7 +6,7 @@
     display: flex;
   }
 
-  .seguentPCL{
-    position: absolute;
-    left: 65%;
+  .espaibotonsPCL{
+      display: flex;
+      justify-content: space-between;
   }
