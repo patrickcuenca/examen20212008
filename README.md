@@ -135,7 +135,7 @@ A partir d'ara ja teniu configurat el vostre entorn per començar a fer tots els
      - els fitxers amb extensió **```.js```** dins d'una carpeta anomenada **```js```**,
      - i modifica els fitxers pertinents per a que segueixi funcionant tot correctament.
 
-1. Fes un ***```commit```*** amb el missatge "**```Primer commit activitat 2!```**"
+1. Fes un ***```commit```*** amb el missatge "**```Primer commit activitat 1!```**"
 
 1. Puja el teu **repositori local** al vostre **reposiroti remot a github**.
 
