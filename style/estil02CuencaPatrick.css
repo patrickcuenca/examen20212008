@@ -5,3 +5,8 @@
   .elementVisiblePCL {
     display: flex;
   }
+
+  .seguentPCL{
+    position: absolute;
+    left: 65%;
+  }
