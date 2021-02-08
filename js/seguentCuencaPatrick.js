@@ -8,6 +8,7 @@ function passaSeguentPCL(objRebut){
         break;
       };
     }
+    
     amagaElementPCL(idObjPregAct);
     mostraElementPCL(idObjPregSeg);
   }
