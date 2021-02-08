@@ -1,0 +1,7 @@
+.elementOcultPCL {
+    display: none;
+  }
+
+  .elementVisiblePCL {
+    display: flex;
+  }
