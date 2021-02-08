@@ -19,11 +19,11 @@ Crear una carpeta localment al vostre ordinador amb el nom 20210208.
 Un cop creada aquesta carpeta, obriu el ```Visual Studio Code```, i obriu la carpeta que acabeu de crear.
 
 L'aspecte que ha de mostrar és similar al aquest.
-![imatge_0001.png](imatges\imatge_0001.png)
+![imatge_0001.png](imatges/imatge_0001.png)
 
 
 A continuació cal que obriu una nova finestra de terminal.
-![imatge_0002.png](imatges\imatge_0002.png)
+![imatge_0002.png](imatges/imatge_0002.png)
 
 
 Un cop oberta la nova finestra de terminal, cal que escribiu la següent comanda de git:
@@ -33,18 +33,18 @@ git clone https://github.com/eapdagine/MP06_UF03_ActivitatAvaluativa_20210208.gi
 ```
 
 
-![imatge_0003.png](imatges\imatge_0003.png)
+![imatge_0003.png](imatges/imatge_0003.png)
 
 
 D'aquesta manera es crearà una carpeta anomenada examen20212008, a on trobareu tot el codi de l'activitat.
 
-![imatge_0004.png](imatges\imatge_0004.png)
+![imatge_0004.png](imatges/imatge_0004.png)
 
 Ara cal que creeu un nou repositori al vostre github amb el nom ```examen20212008```
 
-![imatge_0005.png](imatges\imatge_0005.png)
+![imatge_0005.png](imatges/imatge_0005.png)
 
-![imatge_0006.png](imatges\imatge_0006.png)
+![imatge_0006.png](imatges/imatge_0006.png)
 
 Arribat a aquest punt, és molt important que guardeu la **url** del vostre repositori.
 
@@ -64,7 +64,7 @@ git remote get-url examen20212008
 
 I la **URL** que us torna ha de ser la mateixa del vostre repositori remot al vostre **github**. 
 
-![imatge_0008.png](imatges\imatge_0008.png)
+![imatge_0008.png](imatges/imatge_0008.png)
 
 Ara ja podeu "pujar" el **repositori local** que acabeu de crear al vostre **reposiroti remot a github** que acabeu de crear.
 
@@ -74,7 +74,7 @@ Per fer-ho cal que executeu la següent comanda:
 git push -u examen20212008 master
 ```
 
-![imatge_0009.png](imatges\imatge_0009.png)
+![imatge_0009.png](imatges/imatge_0009.png)
 
 A partir d'ara ja teniu configurat el vostre entorn per començar a fer tots els passos que es demanen a l'activitat avaluativa.
 
