@@ -33,7 +33,7 @@ git clone https://github.com/eapdagine/MP06_UF03_ActivitatAvaluativa_20210208.gi
 ```
 
 
-![imatge_0003.png](imatges\imatge_0003.png)
+![imatge_0003.png](imatges/imatge_0003.png)
 
 
 D'aquesta manera es crearà una carpeta anomenada examen20212008, a on trobareu tot el codi de l'activitat.
